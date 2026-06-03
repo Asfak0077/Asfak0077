@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm ASFAK RAHMAN
 
-<!--
-**Asfak0077/Asfak0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Java Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Advanced Full Stack Development
+* Cloud Computing
+* DevOps & CI/CD
+* AI & Machine Learning
+
+🚀 Projects
+
+* Library Management System
+* Contact Management System
+* Tele Book Project
+* AI Chatbot Applications
+* Task & Productivity Management Platform
+
+🛠️ Tech Stack
+
+* Java
+* MySQL
+* HTML5
+* CSS3
+* Git & GitHub
+* DBMS
+
+🎯 Goals
+
+* Build real-world software projects
+* Contribute to open source
+* Master Full Stack Development
+* Become a Software Engineer
+
+📈 GitHub Stats
+
+* Building projects daily
+* Learning modern technologies
+* Improving problem-solving skills
+
+📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+
+⭐ "Code. Learn. Build. Repeat."
