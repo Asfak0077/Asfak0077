@@ -16,8 +16,8 @@
 🛠️ Tech Stack
 
 * Java
-* HTML5
-* CSS3
+* HTML,Css,Java
+* Mongo db
 * Git & GitHub
 
 ⭐ "Code. Learn. Build. Repeat."
