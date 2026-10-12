@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/loading-banner.svg" alt="Asfak Rahman animated loading banner" width="900"/>
+</p>
+
 # Hi 👋, I'm Asfak Rahman
 
 
